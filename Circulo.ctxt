@@ -9,4 +9,6 @@ comment3.params=
 comment3.target=int\ getRadio()
 comment4.params=
 comment4.target=java.lang.String\ toString()
-numComments=5
+comment5.params=arg
+comment5.target=void\ main(java.lang.String[])
+numComments=6

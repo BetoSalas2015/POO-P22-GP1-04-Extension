@@ -5,7 +5,7 @@
  * @author Roberto Salazar Marquez
  * @version 1.0
  */
-public class Punto
+public class Punto extends Object
 {
     private int x;
     private int y;

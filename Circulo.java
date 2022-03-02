@@ -25,4 +25,23 @@ public class Circulo extends Punto
      public String toString() {
         return "Centro " + super.toString() + ", Radio = " + radio;
      }
+
+     
+     public static void main(String arg[]) {
+         String str1 = new String("Hola");
+         String str2 = new String("Hola");
+         
+         if( str1.equals(str2) ) {
+             System.out.println("Es verdad");
+         } else {
+             System.out.println("No es verdad");
+         }
+     }
+     
+     
+     
 }
+
+
+
+
