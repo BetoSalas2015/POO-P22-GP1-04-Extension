@@ -5,9 +5,12 @@
  * @author Roberto Salazar Marquez
  * @version 1.0
  */
+
 public class TestOverride
 {
     // Variables de Instancia 
+    
+    private final float PI = 3.14159f;
 
      public static void main(String args[]) {
          Punto p = new Punto(2,3);
@@ -16,6 +19,7 @@ public class TestOverride
          
          cy.toString();
          c.toString();
+        
         }
 }
 
